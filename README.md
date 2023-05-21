@@ -1,0 +1,1 @@
+# Concatenate numbers and strings using the + operator
